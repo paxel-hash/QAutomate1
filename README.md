@@ -1,16 +1,15 @@
 # QAutomate1
 
-Proyecto de Automatizacion QA - Axel Paino
+## Proyecto de Automatización QA – Axel Paino
 
-Descripcion
-Proyecto de automatizacion de pruebas realizado con Python, Selenium WebDriver y Pytest.
+### Descripción
+Proyecto de automatización de pruebas realizado con **Python**, **Selenium WebDriver** y **Pytest**. 
 
-El objetivo del proyecto es automatizar distintas pruebas funcionales de una aplicacion web.
+El objetivo del proyecto es automatizar distintas pruebas funcionales de una aplicación web.
 
-Tecnologias usadas
-Python
-Selenium WebDriver
-Pytest
-Pytest HTML
-Git
-
+### Tecnologías usadas
+* Python
+* Selenium WebDriver
+* Pytest
+* Pytest HTML
+* Git
